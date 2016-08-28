@@ -1,5 +1,5 @@
 # vk-app-mvc
-git clone  name_of_your_folder  </br>
+git clone https://github.com/knyshh/vkapp-mvc-commonjs-webpack/edit/master/README.md name_of_your_folder  </br>
 cd name_of_your_folder  </br>
 npm i  </br>
 gulp  </br>
